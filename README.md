@@ -40,3 +40,5 @@ bin/rails server
 - 課題②：新着記事の見出しを変更し、READMEを更新しました（担当B）
 - 課題③：投稿フォームのボタン文言を変更し、READMEを更新しました（担当C）
 [担当B] GitHub Flow を使えばコンフリクトも怖くない！
+[担当A] GitHub Flow で清田丸
+
